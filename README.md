@@ -1,4 +1,4 @@
 
-# Persistant Gallery Animation
+# #D slider animation
 
-#### Application uses only HTML5 and CSS3 markdown and is built for 3 pictures
+#### 3D slider - 5 containers
